@@ -1,4 +1,12 @@
 # C-13X
+
+![](images/new-bottom.png)
+
+I modified the bottom so it can accept ai03 daughterboards for use with the [PCB I designed](https://github.com/ramonimbao/C-13X-PCB).
+
+---
+
+# C-13X
 qaz-ish alice style handwired board
 
 ![PXL_20220204_205443605](https://user-images.githubusercontent.com/72298427/152603681-25e74323-60f7-4ff9-90ad-4e881e0b2597.jpg)
